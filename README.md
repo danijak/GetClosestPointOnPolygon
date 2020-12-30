@@ -27,3 +27,5 @@ point { x: 150, y: 50 });
 Output: { x: 100, y: 50 }. 
 
 It also works with shapes more complex than a square.
+
+# https://javedali-iitkgp.medium.com/
